@@ -1,45 +1,32 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
-        xmlns:xhtml="http://www.w3.org/1999/xhtml">
-
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+ 
   <url>
     <loc>https://dtp-services.github.io/</loc>
-    <xhtml:link rel="alternate" hreflang="en" href="https://dtp-services.github.io/"/>
-    <xhtml:link rel="alternate" hreflang="de" href="https://dtp-services.github.io/de/"/>
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://dtp-services.github.io/"/>
     <lastmod>2026-05-22</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
-
+ 
   <url>
     <loc>https://dtp-services.github.io/de/</loc>
-    <xhtml:link rel="alternate" hreflang="en" href="https://dtp-services.github.io/"/>
-    <xhtml:link rel="alternate" hreflang="de" href="https://dtp-services.github.io/de/"/>
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://dtp-services.github.io/"/>
     <lastmod>2026-05-22</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
-
+ 
   <url>
     <loc>https://dtp-services.github.io/pdf-accessibility-explained/</loc>
-    <xhtml:link rel="alternate" hreflang="en" href="https://dtp-services.github.io/pdf-accessibility-explained/"/>
-    <xhtml:link rel="alternate" hreflang="de" href="https://dtp-services.github.io/pdf-accessibility-explained/de/"/>
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://dtp-services.github.io/pdf-accessibility-explained/"/>
     <lastmod>2026-05-22</lastmod>
     <changefreq>monthly</changefreq>
     <priority>1.0</priority>
   </url>
-
+ 
   <url>
     <loc>https://dtp-services.github.io/pdf-accessibility-explained/de/</loc>
-    <xhtml:link rel="alternate" hreflang="en" href="https://dtp-services.github.io/pdf-accessibility-explained/"/>
-    <xhtml:link rel="alternate" hreflang="de" href="https://dtp-services.github.io/pdf-accessibility-explained/de/"/>
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://dtp-services.github.io/pdf-accessibility-explained/"/>
     <lastmod>2026-05-22</lastmod>
     <changefreq>monthly</changefreq>
     <priority>1.0</priority>
   </url>
-
+ 
 </urlset>
